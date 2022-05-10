@@ -1,0 +1,145 @@
+Html#momo .z {
+    overflow: hidden;
+    background-color: antiquewhite;
+    margin-right: 10px;
+    border-radius: 10px;
+   
+}
+
+Html#momo .header {
+    border: 20px;
+    border-radius: 10px;
+    height: 100px;
+}
+
+Html#momo ul {
+    width: 99%;
+    list-style-type: none;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+Html#momo li {
+    float: left;
+}
+
+Html#momo li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+Html#momo li a:hover {
+    background-color: #a79696;
+}
+
+Html#momo .right {
+    width: 19%;
+    height: 470px;
+    float: right;
+    border: thin solid black;
+    border-radius: 10px;
+    margin-right: 1%;
+    
+}
+Html#momo .right pre{
+    color: rgb(175, 175, 27);
+}
+Html#momo .right img{
+    width: 100%;
+    height: 100%;  
+    border-radius: 10px;  
+}
+
+Html#momo .left {
+    width: 19%;
+    height: 470px;
+    float: left;
+    border: thin solid black;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 1000;
+}
+
+
+Html#momo .ccc {
+    float: right;
+    background-color: rgb(226, 43, 134);
+    width: 50%;
+}
+
+Html#momo div {
+    background-color: rgb(221, 207, 207);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000;
+    border: 2px solid rgb(0, 0, 0);
+    left: 100px;
+    right: 100px;
+}
+
+
+Html#momo body {
+    background-image: url("jGlzr.png");
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+Html#momo .b {
+
+    background-color: rgb(28, 28, 121);
+    text-align: left;
+    border: thin solid black;
+    border-radius: 10px;
+}
+
+Html#momo .ggg {
+    float: right;
+}
+
+Html#momo .ee {
+    float: right;
+}
+
+Html#momo .c {
+
+    color: rgb(0, 0, 0);
+    font-family: Andalus;
+    font-weight: 100;
+    font-weight: bold;
+
+}
+
+Html#momo .a {
+    float: right;
+    color: rgb(10, 10, 9);
+    font-weight: bold;
+    margin: 20px;
+    direction: rtl;
+    text-align: right;
+    font-weight: 10000;
+    font-size: large;
+    font-family: "Droid Arabic Kufi", serif;
+}
+Html#momo .foot h2{
+   font-family: 'Times New Roman', Times, serif;
+   color: #4841a1;
+}
+Html#momo .foot img{
+    width: 30px;
+}
+Html#momo .foot{
+    background-color: #000;
+    border-radius: 10px;
+    
+ 
+}
+
